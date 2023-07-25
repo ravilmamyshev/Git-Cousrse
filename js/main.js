@@ -1,1 +1,1 @@
-console.log('Git and GitHub')
+console.log('new-git-course')
